@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Final Result](./images/screenshot.jpg)
 
 ### Links
-- Live Site URL: [Link to the project](https://google.com)
+- Live Site URL: [Link to the project](https://captain-subsurf.github.io/Frontend-Mentor---QR-Code-Component/)
 
 ## My process
 
@@ -32,4 +32,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Website - [Mohamed Farhan](https://subsurf.netlify.app)
 - Frontend Mentor - [@Captain-Subsurf](https://www.frontendmentor.io/profile/Captain-Subsurf)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/CaptainFarhan6)
